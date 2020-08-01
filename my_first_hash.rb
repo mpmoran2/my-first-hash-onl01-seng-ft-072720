@@ -1,12 +1,9 @@
 def my_hash
   my_hash = {
-    "name => "Pilahi",
-    "height" => "5 foot 4 inches",
-    
-    
+    "name" => "Pilahi",
+    "height" => "5 foot 4",
+    "weight" => "Too much.",
   }
-
-  
 end
 
 
